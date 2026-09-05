@@ -1,6 +1,7 @@
 # Healthcare Analytics Pipeline & Financial Risk Analysis
 
-![Uploading HealthCare Executive Summary.png…]()
+<img width="934" height="537" alt="HealthCare Executive Summary" src="https://github.com/user-attachments/assets/53b7af58-c01e-4c20-bded-5b5b748a68e1" />
+
 
 
 An end-to-end data engineering, database integration, and business intelligence pipeline focused on patient encounter costs, insurance coverage gaps, procedure costs, and financial risk assessment across healthcare systems.
