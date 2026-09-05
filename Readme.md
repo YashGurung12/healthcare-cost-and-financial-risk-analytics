@@ -1,5 +1,8 @@
 # Healthcare Analytics Pipeline & Financial Risk Analysis
 
+![Uploading HealthCare Executive Summary.png…]()
+
+
 An end-to-end data engineering, database integration, and business intelligence pipeline focused on patient encounter costs, insurance coverage gaps, procedure costs, and financial risk assessment across healthcare systems.
 
 ---
